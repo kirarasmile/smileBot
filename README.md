@@ -8,6 +8,8 @@
 * 获取kaw(Konachan Anime Wallpapers)日榜
 * 网抑云time（该api无法在国外服务器访问）
 * 获取最新的码农周刊link
+* 发送图片搜索番剧
+* 增加了帮助指令，发送“bot救救我”即可调出
 ## 使用组件
 * <a href="https://aiocqhttp.nonebot.dev/#/">aiocqhttp</a>
 * <a href="https://github.com/howmanybots/onebot/blob/master/README.md#/API">go-cqhttp</a>
@@ -37,6 +39,6 @@
 * 历史上的今天
 * <del>RSS读取</del>
 * 修复R18日榜没反应问题
-* 修复网抑云用不了的问题
-* 搜图功能
+* <del>修复网抑云用不了的问题</del>
+* <del>搜图功能</del>
 * 缓存功能
